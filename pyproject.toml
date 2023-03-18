@@ -2,7 +2,7 @@
 name = "tomodachi-rest"
 version = "0.1.0"
 description = ""
-authors = ["snezhniy <72914371+snezhniy@users.noreply.github.com>"]
+authors = ["Kirill M. <96192210+httport@users.noreply.github.com>"]
 license = "MPL-2.0"
 
 [tool.poetry.dependencies]
